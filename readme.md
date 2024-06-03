@@ -23,7 +23,7 @@ O arquivo `index.html` contém o seguinte conteúdo básico:
 </head>
 <body>
     <h1>Bem-vindo ao meu projeto!</h1>
-    <img src="images/sua-imagem.jpg" alt="Minha Imagem">
+    <img src="images/GitHub-logo.png" alt="Minha Imagem">
 </body>
 </html>
 
